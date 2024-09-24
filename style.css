@@ -5,5 +5,33 @@ body {
 
 .green {
     background-color: green;
-};
+    margin: 10px;
+    padding: 7px 20px;
+    border: none;
+    border-radius: 8px
+}
+
+.red {
+    background-color: rgb(227, 36, 36);
+    margin: 10px;
+    padding: 7px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+.blue {
+    background-color: rgb(86, 86, 189);
+    margin: 10px;
+    padding: 7px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+.random {
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 7px 16px;
+    border: none;
+    border-radius: 8px;
+}
 
