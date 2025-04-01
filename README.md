@@ -1,3 +1,3 @@
 # Color-flipper-js
-Author- Shubham
+Author- Shubham Alone
  
